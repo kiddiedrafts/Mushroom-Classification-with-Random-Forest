@@ -20,7 +20,7 @@ The dataset contains 8,124 rows and 23 columns, where each row represents a mush
 ### Dataset Location
 
 - **Data/**: Contains the dataset files downloaded from Kaggle.
-- **Notebook/**: Houses the Jupyter notebook for the project.
+- **Notebook/**: Houses the Jupyter notebook for the project. **Currently, we are working within the Notebook directory.**
 
 ## Project Structure
 
